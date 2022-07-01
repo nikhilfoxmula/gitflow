@@ -7,6 +7,11 @@ function App() {
        <h2>Login</h2>
        <button>Submit</button>
   
+        <h2>Login</h2>
+        <button>Submit</button>
+
+        <h2>Logout</h2>
+        <button>Submit</button>
       </header>
     </div>
   );

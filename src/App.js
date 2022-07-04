@@ -8,6 +8,9 @@ function App() {
        <button>Submit</button>
   
       </header>
+      <footer>
+        Footer of my website
+      </footer>
     </div>
   );
 }

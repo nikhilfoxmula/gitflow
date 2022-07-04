@@ -9,6 +9,7 @@ function App() {
         <h2>Logout</h2>
         <button>Submit</button>
       </header>
+      <div>Not required by other branches</div>
     </div>
   );
 }
